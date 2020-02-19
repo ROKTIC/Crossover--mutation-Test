@@ -1,0 +1,2 @@
+# AI
+ Crossover, mutation, fitness
